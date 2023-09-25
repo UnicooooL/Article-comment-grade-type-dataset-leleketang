@@ -12,8 +12,8 @@ The dataset includes the following elements:
 - **Comment:** The comments made on the articles
 - **Grade:** The grade assigned to the articles
 
-![distribution based on levels](https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/levels.png)
 <p align="center">
+  <img src="https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/levels.png" alt="Distribution based on Levels" width="50%" />
   <img src="https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/themes.png" alt="Distribution based on Themes" width="50%" /> 
   <img src="https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/grades.png" alt="Distribution based on Grades" width="50%" />
 </p>

@@ -14,8 +14,8 @@ The dataset includes the following elements:
 
 ![distribution based on levels](https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/levels.png)
 <p align="center">
-  <img src="https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/themes.png" alt="Distribution based on Themes" width="30%" /> 
-  <img src="https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/grades.png" alt="Distribution based on Grades" width="30%" />
+  <img src="https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/themes.png" alt="Distribution based on Themes" width="50%" /> 
+  <img src="https://github.com/UnicooooL/Article-comment-grade-type-dataset-leleketang/blob/main/analysis/grades.png" alt="Distribution based on Grades" width="50%" />
 </p>
 
 ## Getting Started

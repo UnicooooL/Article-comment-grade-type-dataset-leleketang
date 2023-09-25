@@ -2,6 +2,19 @@
 
 This repository contains a dataset extracted from leleketang.com which encompasses parts of articles including content, title, type, comments, and grade. It provides a deep insight into the various dimensions and the multifaceted nature of the data available on the website.
 
+## Repository Structure
+
+The repository is organized into several folders, each serving a specific purpose. Here's a brief overview of each folder:
+
+- **Dataset:** This folder contains the CSV files that comprise the dataset extracted from leleketang.com. Each file stores different parts of articles including content, title, type, comment, and grade.
+  
+- **Sample Codes:** Within this folder, you will find sample codes which are essential for extracting data from the website. These codes can serve as a reference for those looking to understand the process of data acquisition and can be useful for developers aiming to extract similar data from other websites.
+  
+- **Analysis:** This section includes all the graphical representations and analysis derived from the dataset. It contains various charts depicting the distribution based on levels, themes, and grades along with the code used to generate these charts. These visualizations provide a comprehensive overview of the dataset and can be instrumental in deriving insights from it.
+
+Users and contributors can explore these folders to utilize the dataset, understand the data extraction methodology, and analyze the data using the provided visualizations and codes.
+
+
 ## Dataset Overview
 
 The dataset includes the following elements:
